@@ -1,0 +1,22 @@
+h1 {
+    color: whitesmoke;
+    font-size: 75px;
+    text-align: left;
+    background-color: black;
+
+}
+h2 {
+    color: whitesmoke;
+    font-size: 65px;
+    text-align: center;
+    font-style: italic;
+    background-color: purple;
+}
+
+h3 {
+    color: black;
+    font-size: 60px;
+    text-align: right;
+    text-decoration: underline;
+    background-color:lightcyan ;
+}
